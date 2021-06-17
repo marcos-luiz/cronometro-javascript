@@ -1,0 +1,1 @@
+Cronômetro feito em Javascript puro.
